@@ -1,4 +1,4 @@
-# Computer-Networks-Lab-CS39006
+# Software Engineering Lab
 
 IIT Kharagpur,
 Computer Science and Engineering,
